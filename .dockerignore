@@ -1,0 +1,9 @@
+__pycache__
+*.pyc
+*.pyo
+.env
+.git
+.gitignore
+README.md
+deploy.ps1
+create_history_sheet.py
